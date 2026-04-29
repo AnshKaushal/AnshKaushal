@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Full stack web development
 - 💞️ I’m looking to collaborate on Website making
-- 📫 How to reach me [mail me]
+- 📫 How to reach me [mail me](anshhkaushal@gmail.com)
 - 🔱 My Biggest Project > [visit here](https://anshkaushal.vercel.app)
 
 <!---
